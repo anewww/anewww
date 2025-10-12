@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**anewww/anewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me
+- Age: `22 y. o.`
+- Current focus: `Styling Compass` `(TS, React, Next.js)`
+- Currently learn: `Typst`
+- Quote: `"Today is Saturday - time to build"`
+<br></br>
+- Languages.Programming: `JavaScript/TypeScript, C#`
+- Languages.Technical: `HTML, CSS, JSON`
+- Languages.Human: `English, German, Ukrainian, Russian`
 
-Here are some ideas to get you started:
+Contact
+- [Email](mailto:dev.serhii.shevchenko@gmail.com): `dev.serhii.shevchenko@gmail.com`
+- [Linkedin](https://linkedin.com/in/serhii-shevchenko-developer): `serhii-shevchenko-developer`<br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Last updated: `
