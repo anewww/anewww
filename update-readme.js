@@ -1,4 +1,4 @@
-import fs from 'fs';
+const fs = require('fs');
 
 const calcAge = () => {
   return (new Date().getFullYear() - 2003).toString();
