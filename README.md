@@ -1,4 +1,3 @@
-
 Me
 - Age: `22 y. o.`
 - Current focus: `Styling Compass` `(TS, React, Next.js)`
