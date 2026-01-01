@@ -1,8 +1,8 @@
 Me
-- Age: `22 y. o.`
+- Age: `23 y. o.`
 - Current focus: `Styling Compass` `(TS, React, Next.js)`
 - Currently learn: `Typst`
-- Quote: `"Today is Wednesday - time to build"`
+- Quote: `"Today is Thursday - time to build"`
 <br></br>
 - Languages.Programming: `JavaScript/TypeScript, C#`
 - Languages.Technical: `HTML, CSS, JSON`
@@ -12,4 +12,4 @@ Contact
 - [Email](mailto:dev.serhii.shevchenko@gmail.com): `dev.serhii.shevchenko@gmail.com`
 - [Linkedin](https://linkedin.com/in/serhii-shevchenko-developer): `serhii-shevchenko-developer`<br></br>
 
-`Last updated: 2025-12-31`
+`Last updated: 2026-01-01`
